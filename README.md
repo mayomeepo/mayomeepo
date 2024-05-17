@@ -2,8 +2,7 @@
 - 👀 I’m interested in tech and data analysis 
 - 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://wa.me/message/6QJDDX5ZQN6HB1
-- 😄 Pronouns: 
+- 📫 How to reach me 
 - ⚡ Fun fact: ...
 
 <!---
