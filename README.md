@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayomeepo
 - 👀 I’m interested in tech and data analysis 
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m currently learning data analysis 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - ⚡ Fun fact: ...
